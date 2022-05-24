@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    echo "agent"
+    
   }
   stages {
     stage('Test') {
